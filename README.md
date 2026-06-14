@@ -83,6 +83,7 @@ LeetCode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0009-palindrome-number) |
+| [0728-self-dividing-numbers](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
