@@ -85,6 +85,7 @@ LeetCode solutions
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1323-maximum-69-number) |
@@ -163,4 +164,12 @@ LeetCode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/darcy5/My-Coding-Journey/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/darcy5/My-Coding-Journey/tree/master/0051-n-queens) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
