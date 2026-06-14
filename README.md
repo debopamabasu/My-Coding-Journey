@@ -14,6 +14,7 @@ LeetCode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darcy5/My-Coding-Journey/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -83,6 +84,7 @@ LeetCode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1323-maximum-69-number) |
@@ -147,6 +149,7 @@ LeetCode solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
