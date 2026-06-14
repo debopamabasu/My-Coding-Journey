@@ -135,6 +135,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/darcy5/My-Coding-Journey/tree/master/0125-valid-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +158,7 @@ LeetCode solutions
 | [0217-contains-duplicate](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Matrix
 |  |
