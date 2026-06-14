@@ -37,6 +37,7 @@ LeetCode solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -74,11 +75,13 @@ LeetCode solutions
 | ------- |
 | [0169-majority-element](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
+| [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -140,6 +143,7 @@ LeetCode solutions
 | [0169-majority-element](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Matrix
 |  |
