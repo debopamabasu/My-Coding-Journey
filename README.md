@@ -87,6 +87,7 @@ LeetCode solutions
 | [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
