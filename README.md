@@ -33,6 +33,7 @@ LeetCode solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darcy5/My-Coding-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/darcy5/My-Coding-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -49,6 +50,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
@@ -136,6 +138,7 @@ LeetCode solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Matrix
