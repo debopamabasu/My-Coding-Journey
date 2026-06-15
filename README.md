@@ -95,6 +95,7 @@ LeetCode solutions
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3099-harshad-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/3099-harshad-number) |
 ## Recursion
 |  |
 | ------- |
