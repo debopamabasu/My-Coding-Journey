@@ -7,8 +7,8 @@ public:
             int sum = 0;
             for(int j = 0; j<accounts[i].size(); j++){
                 sum += accounts[i][j];
-                maxWealth = max(maxWealth,sum);
             }
+            maxWealth = max(maxWealth,sum);
         }
         return maxWealth;
         
