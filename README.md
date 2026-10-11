@@ -45,6 +45,7 @@ LeetCode solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,4 +190,8 @@ LeetCode solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
