@@ -41,6 +41,7 @@ LeetCode solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -170,6 +171,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
