@@ -27,6 +27,7 @@ LeetCode solutions
 | [0035-search-insert-position](https://github.com/darcy5/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/darcy5/My-Coding-Journey/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/darcy5/My-Coding-Journey/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/darcy5/My-Coding-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darcy5/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@ LeetCode solutions
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0728-self-dividing-numbers) |
