@@ -45,6 +45,7 @@ LeetCode solutions
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -185,6 +186,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
