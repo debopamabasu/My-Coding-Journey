@@ -48,6 +48,7 @@ LeetCode solutions
 | [1929-concatenation-of-array](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@ LeetCode solutions
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2748-number-of-beautiful-pairs) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ LeetCode solutions
 | [1323-maximum-69-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2748-number-of-beautiful-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/3099-harshad-number) |
 ## Recursion
@@ -172,6 +175,7 @@ LeetCode solutions
 | [1512-number-of-good-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2748-number-of-beautiful-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +195,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
+| [2748-number-of-beautiful-pairs](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2748-number-of-beautiful-pairs) |
 ## Queue
 |  |
 | ------- |
