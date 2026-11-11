@@ -31,6 +31,7 @@ LeetCode solutions
 | [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/darcy5/My-Coding-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darcy5/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darcy5/My-Coding-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/darcy5/My-Coding-Journey/tree/master/0162-find-peak-element) |
@@ -152,6 +153,7 @@ LeetCode solutions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0135-candy) |
 | [1323-maximum-69-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
