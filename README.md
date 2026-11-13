@@ -206,4 +206,8 @@ LeetCode solutions
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/debopamabasu/My-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
