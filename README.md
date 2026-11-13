@@ -96,6 +96,7 @@ LeetCode solutions
 | [0007-reverse-integer](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0728-self-dividing-numbers) |
@@ -188,6 +189,7 @@ LeetCode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/darcy5/My-Coding-Journey/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/darcy5/My-Coding-Journey/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -209,5 +211,6 @@ LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/debopamabasu/My-Coding-Journey/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
